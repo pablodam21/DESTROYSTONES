@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5f8827b2-a5d1-45ea-9c5d-8f922dcb5e7e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InterfaceStone.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Stone.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/First Example/Assets/Scripts/Cube.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Fx Explosion Pack/Script/DestroyEffect.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MainLoop.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InterfaceFinal.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/First Example/Assets/Scripts/Move.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Fx Explosion Pack/Script/csLightControl.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Fx Explosion Pack/Script/csMouseOrbit.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Fx Explosion Pack/Script/csDemoScenceControl.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InterfaceStone.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InterfaceAwakeç.cs" />
+        <option value="$PROJECT_DIR$/Assets/Fx Explosion Pack/Script/DestroyEffect.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InterfaceFinal.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LuzEventos.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MainLoop.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Stone.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kOOcMOv4fILaZfnyIBNgXss21y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f8827b2-a5d1-45ea-9c5d-8f922dcb5e7e" name="Default Changelist" comment="" />
+      <created>1605568252089</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605568252089</updated>
+      <workItem from="1605568260007" duration="902000" />
+      <workItem from="1605569769149" duration="838000" />
+      <workItem from="1605572494942" duration="300000" />
+      <workItem from="1605572824502" duration="3359000" />
+      <workItem from="1605654780563" duration="444000" />
+      <workItem from="1605655485343" duration="6000" />
+      <workItem from="1605656423237" duration="2042000" />
+      <workItem from="1605892205814" duration="3867000" />
+      <workItem from="1605898241470" duration="69000" />
+      <workItem from="1606134397304" duration="1459000" />
+      <workItem from="1606228418101" duration="615000" />
+      <workItem from="1606255658731" duration="865000" />
+      <workItem from="1606256750518" duration="636000" />
+      <workItem from="1606257407595" duration="2090000" />
+      <workItem from="1606260740712" duration="580000" />
+      <workItem from="1606261692777" duration="600000" />
+      <workItem from="1606313582778" duration="2655000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
